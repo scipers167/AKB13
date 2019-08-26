@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Friends Hub</string>
+    <string name="app_name_2">Friends Hub</string>
+    <string name="version">Version 2.0</string>
+    <string name="assignment">Aplikasi Komputasi Bergerak</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_about">About</string>
+    <string name="title_friend_detail">Friend Detail</string>
+    <string name="_title_add_friend">Add Friend</string>
+    <string name="application">Application</string>
+    <string name="creator">Creator</string>
+    <string name="my_name">Fikri Ahmad Ramdhan</string>
+    <string name="my_nim">10116362</string>
+    <string name="my_class">IF - 8</string>
+    <string name="major">Informatics Engineering</string>
+    <string name="university">Indonesian Computer University</string>
+    <string name="my_desc">I am Fikri Ahmad Ramdhan. I currently enrolled as bachelor of informatics engineering student at Indonesian Computer University. I have strong design skill and very excited in Xamarin programming also web application.</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="my_number">+6287871396779</string>
+    <string name="my_email">fikry.a23@gmail.com</string>
+    <string name="my_ig">\@frahmad_</string>
+    <string name="name">Name</string>
+    <string name="nim">NIM</string>
+    <string name="class_">Class</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="login">Login</string>
+    <string name="tag_line">~Vokka gaaru, kyou no kouen dai sekkou!!~  \n (Rozaliya + Liliya Olenyeva)</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="edit_friend">Edit Friend</string>
+    <string name="login_failed_msg">Login failed, Username or password is wrong !</string>
+    <string name="sign_up_failed_msg">Sign up failed, Username already used !</string>
+    <string name="title_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome_you_logged_in_as">Welcome, You logged in as :</string>
+</resources>
